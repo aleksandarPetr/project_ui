@@ -1,0 +1,29 @@
+.main {
+    padding: 158px 149px 78px 148px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.mainLeft {
+    padding-right: 115px;
+    width: 500px;
+}
+
+.mainTitle {
+    font-size: 44px;
+    line-height: 60px;
+    color: rgba(33, 36, 61, 1);
+}
+
+.mainButton {
+    color: white;
+    margin-top: 23px;
+    height: 47px;
+    background-color: rgba(255, 100, 100, 1);
+    border: none;
+    outline: none;
+    font-size: 20px;
+    line-height: 29px;
+    padding: 9px 21px 17px 20px;
+}

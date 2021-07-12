@@ -1,0 +1,17 @@
+.footer {
+    height: 182px;
+    display: block;
+    text-align: center;
+}
+
+.footerSocial img {
+    padding: 21px;
+}
+
+.footerCopyright {
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 21px;
+    color: rgba(33, 36, 61, 1);
+    padding: 7px;
+}

@@ -1,0 +1,65 @@
+
+.features {
+    display: block;
+    padding: 15px 149px 87px 148px;
+}
+
+.featuresTitle {
+    font-family: Arial;
+    font-size: 22px;
+    color: rgba(33, 36, 61, 1);
+    line-height: 60px;
+    font-weight: normal;
+    padding-top: 7px;
+    text-align: left;
+}
+
+.featuresSection {
+  text-align: left;
+}
+
+.featuresChapter {
+    display: block;
+}
+
+.featuresSectionChapter {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    margin-bottom: 31px;
+    margin-top: 31px;
+}
+
+.featuresSectionLeft {
+    margin-right: 9px;
+}
+
+.featuresSectionRight {
+    width: 594px;
+    margin-left: 9px;
+}
+
+.featuresSubtitle {
+    font-family: Arial;
+    font-size: 30px;
+    color: rgba(33, 36, 61, 1);
+    line-height: 25px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    margin-top: 0;
+}
+
+.featuresDescription {
+    font-family: Arial;
+    font-size: 20px;
+    color: rgba(134, 149, 164, 1);
+    line-height: 29px;
+    font-weight: normal;
+    margin-bottom: 17px;
+}
+
+hr {
+    color: rgba(224, 224, 224, 1);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

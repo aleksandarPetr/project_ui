@@ -1,0 +1,48 @@
+.posts {
+    height: 350px;
+    background-color: rgba(237, 247, 250, 1);
+    display: block;
+}
+
+.postsContainer {
+    padding: 7px 149px 32px 148px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgba(237, 247, 250, 1);
+}
+
+.postsSection {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 7px 21px;
+    margin-right: 10px;
+    text-align: left;
+}
+
+.postsTitle {
+    font-family: Arial;
+    font-size: 22px;
+    color: rgba(33, 36, 61, 1);
+    line-height: 60px;
+    font-weight: normal;
+    padding-left: 148px;
+    padding-top: 7px;
+    margin: 0;
+    text-align: left;
+}
+
+.postsSubtitle {
+    font-family: Arial;
+    font-size: 22px;
+    color: rgba(33, 36, 61, 1);
+    line-height: 60px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.postsDate {
+    font-family: Arial;
+    font-size: 18px;
+    color: rgba(33, 36, 61, 1);
+    line-height: 27px;
+    font-weight: normal;
+}
