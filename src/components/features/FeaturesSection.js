@@ -13,19 +13,19 @@ const FeaturesSection = () => {
 
     const featuresData = [
         {
-            image: {Dashboard},
+            image: Dashboard,
             subtitle: 'Designing Dashboards',
             description: 'Dashboard',
             text: 'Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.'
         },
         {
-            image: {Illustration},
+            image: Illustration,
             subtitle: 'Vibrant Portraits of 2020',
             description: 'Illustration',
             text: 'Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.'
         },
         {
-            image: {Typography},
+            image: Typography,
             subtitle: '36 Days of Malayalam type',
             description: 'Typography',
             text: 'Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.'

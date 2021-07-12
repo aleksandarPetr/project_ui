@@ -8,6 +8,7 @@
     padding: 7px 149px 32px 148px;
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     background-color: rgba(237, 247, 250, 1);
 }
 
@@ -16,6 +17,7 @@
     padding: 7px 21px;
     margin-right: 10px;
     text-align: left;
+    width: 475px;
 }
 
 .postsTitle {
@@ -32,7 +34,7 @@
 
 .postsSubtitle {
     font-family: Arial;
-    font-size: 22px;
+    font-size: 29px;
     color: rgba(33, 36, 61, 1);
     line-height: 60px;
     font-weight: bold;
